@@ -10,7 +10,7 @@ import org.testng.annotations.BeforeClass;
 import java.util.concurrent.TimeUnit;
 
 public abstract class TestBase {
-    //private    -> sadece aynı class
+    // private   -> sadece aynı class
     // default   -> aynı pakette
     // protected -> aynı paket + child class'larda
     // public    -> heryerde
